@@ -1,0 +1,4 @@
+LIBRARY "FMALGain"
+
+EXPORTS
+  AkCreatePlugin
